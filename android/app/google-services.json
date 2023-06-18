@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660506059205",
+    "project_id": "dreamanellapp",
+    "storage_bucket": "dreamanellapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660506059205:android:02d58b58d367f15625ebac",
+        "android_client_info": {
+          "package_name": "com.example.dreamanella_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660506059205-suum9rut7ac7ivsjs1hq6glfqof9tbd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDpKhYuMNN2qc_9_eZIATrE_TL3ZMNjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660506059205-suum9rut7ac7ivsjs1hq6glfqof9tbd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
